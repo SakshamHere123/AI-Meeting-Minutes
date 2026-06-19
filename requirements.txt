@@ -1,0 +1,10 @@
+openai
+langchain
+langchain-openai
+python-dotenv
+pydub
+python-docx
+fastapi
+uvicorn
+streamlit
+python-multipart
