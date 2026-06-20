@@ -170,3 +170,11 @@ print(result["minutes"].summary)
 
 ## License
 MIT
+
+
+
+
+run on terminal 1 (backend) : uvicorn app.main:app --reload
+
+run on terminal 2 (frontend) : streamlit run app/streamlit_app.py
+
